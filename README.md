@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaishakh(he/him/his) 🌏 
+- 👋 Hi, I’m Vaishakh 🌏 
 - 🌱 I ❤️ Mathematics, Physics, Chemistry, Programming, Engineering, Robotics 🤖 
-- 🦾 Currently working on collection of mechanisms
+- 🦾 Currently working on a coverage path planning(CPP) algorithm for cleaning huge rooftop solar installations
 - 🎮 Ocationally play video games and addicted to Anime
